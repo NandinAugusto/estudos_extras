@@ -1,3 +1,11 @@
-    teste1/
-    *.json
-    *.xml
+teste1/
+*.json
+*.xml
+__pycache__/
+*.pyc
+.env
+*.log
+venv/
+config.py
+ips.txt
+access_logs.txt

@@ -19,5 +19,7 @@ def monitor_conexoes():
 
         print(f"{pid:<8} {name:<25} {laddr:<22} {raddr:<22} {conn.status}")
 
+
+
 if __name__ == "__main__":
     monitor_conexoes()
